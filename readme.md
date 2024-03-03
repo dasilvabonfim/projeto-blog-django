@@ -1,0 +1,1 @@
+Este é o blog que criei a tento como exemplo o Blog criado no curso de Python3 que fiz na UDEMY
